@@ -14,6 +14,6 @@ class ReverseNumber {
 			reverse = reverse + number % 10;
 			number = number/10;
 		}
-		System.out.println("Reverse of entered number is "+reverse);
+		System.out.println("Reverse of entered number is " + reverse);
 	}
 }
