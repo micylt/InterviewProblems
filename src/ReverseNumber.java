@@ -16,6 +16,5 @@ class ReverseNumber {
 		}
 		System.out.println("Reverse of entered number is "+reverse);
 		System.out.println("testing git commit");
-		System.out.println("simple change");
 	}
 }
