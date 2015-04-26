@@ -3,7 +3,7 @@ public class EvenProducts {
 
 	public static void main(String[] args) {
 		int result = multiplyEvens(4);
-		System.out.println("product of first n evens in 13: " + result);
+		System.out.println("product of first n evens in 4: " + result);
 	}
 
 	// returns the product of the first n even integers
